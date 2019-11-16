@@ -5,7 +5,7 @@
 #SBATCH --mem=120000
 
 
-TMPDIR=~/platanus/tmp
+TMPDIR=~/zebrafish/tmp
 
 while read line; do
   fastq-dump --split-files --origfmt ${line};
