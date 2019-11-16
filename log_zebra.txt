@@ -18,7 +18,7 @@ K-mer                 = 19
 Max memory            = 
 Extended log          = 0
 Save assembled reads  = no
-Seed Input            = /home/luiz.nunes/platanus/mito.fasta
+Seed Input            = /home/user/zebrafish/mito.fasta
 Reference sequence    = 
 Variance detection    = 
 Chloroplast sequence  = 
@@ -30,8 +30,8 @@ Insert size           = 100
 Platform              = illumina
 Single/Paired         = PE
 Combined reads        = 
-Forward reads         = /home/luiz.nunes/platanus/ERR012903_1.fastq
-Reverse reads         = /home/luiz.nunes/platanus/ERR012903_2.fastq
+Forward reads         = /home/user/zebrafish/ERR012903_1.fastq
+Reverse reads         = /home/user/zebrafish/ERR012903_2.fastq
 
 Heteroplasmy:
 -----------------------
