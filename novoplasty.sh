@@ -4,4 +4,4 @@
 #SBATCH -n 12
 #SBATCH --mem=120000
 
-NOVOPlasty3.6.pl -c novoplasty.txt
+NOVOPlasty3.7.pl -c novoplasty.txt
