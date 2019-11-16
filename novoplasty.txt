@@ -1,0 +1,30 @@
+Project:
+-----------------------
+Project name          = zebra
+Type                  = mito
+Genome Range          = 12000-20000
+K-mer                 = 19
+Max memory            = 
+Extended log          = 0
+Save assembled reads  = no
+Seed Input            = /home/luiz.nunes/platanus/mito.fasta
+Reference sequence    = 
+Variance detection    = no
+Heteroplasmy          = 
+HP exclude list       =
+Chloroplast sequence  = 
+
+Dataset 1:
+-----------------------
+Read Length           = 50
+Insert size           = 100
+Platform              = illumina
+Single/Paired         = PE
+Combined reads        =
+Forward reads         = /home/luiz.nunes/platanus/ERR012903_1.fastq
+Reverse reads         = /home/luiz.nunes/platanus/ERR012903_2.fastq
+
+Optional:
+-----------------------
+Insert size auto      = yes
+Use Quality Scores    = no
